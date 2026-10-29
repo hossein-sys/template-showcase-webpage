@@ -1,0 +1,11 @@
+export * from './TemplateShowcase';
+export * from './header/Header';
+export * from './main/HeroSection';
+export * from './main/FilterBar';
+export * from './main/TemplateCard';
+export * from './main/TemplateGrid';
+export * from './main/PreviewModal';
+export * from './main/TrustFeatures';
+export * from './main/FAQSection';
+export * from './footer/Footer';
+export { default } from './TemplateShowcase';
